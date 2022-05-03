@@ -10,7 +10,7 @@ In this project, I modified key files within the provided PWA and utilized vario
 
 ## Link To The Deployed Page
 
-[Link to final webpage](https://caitlinscodes-note-taker.herokuapp.com/)
+[Link to final webpage](https://aqueous-retreat-42145.herokuapp.com/)
 
 ## Link To GitHub Repo
 
