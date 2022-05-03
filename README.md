@@ -2,15 +2,11 @@
 
 ## Objectives
 
-In this project, I...
-
-## User Instruction
-
-A user will need to...
+In this project, I modified key files within the provided PWA and utilized various dev dependencies like webpack and workbox to achieve the end goal of the projectto and create a functioning text editor application.
 
 ## Screenshot of Final Page
 
-![Screenshot of final webpage](./public/assets/PENDING)
+![Screenshot of final webpage](./final_page.png)
 
 ## Link To The Deployed Page
 
