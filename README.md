@@ -6,7 +6,7 @@ In this project, I modified key files within the provided PWA and utilized vario
 
 ## Screenshot of Final Page
 
-![Screenshot of final webpage](./final_page.png)
+![Screenshot of final webpage](./client/src/images/final_page.png)
 
 ## Link To The Deployed Page
 
